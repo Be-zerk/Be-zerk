@@ -1,8 +1,10 @@
 # Hi, I'm Veysel Ada
 
-I'm a cybersecurity and IT professional building hands-on projects across security operations, IT service management, machine learning, and automation.
+I'm an early-career engineer interested in AI, cybersecurity, automation, and IT systems.
 
-My background includes cybersecurity coursework, IT support concepts, ServiceNow administration, network/security monitoring, Python, and applied machine learning.
+I build hands-on projects across machine learning, explainable AI, security operations, IT service management, and software automation. My work includes TensorFlow/Keras, PyTorch, Python automation, SHAP, ServiceNow, Linux, security monitoring, and virtualized lab environments.
+
+I'm especially interested in roles where software, AI, security, and infrastructure overlap.
 
 ## Featured Projects
 
@@ -55,15 +57,22 @@ I'm continuing to expand my cybersecurity portfolio with hands-on security monit
 
 ## Career Focus
 
-I'm interested in opportunities involving:
+I'm interested in opportunities across:
 
-- Cybersecurity
-- SOC / Security Operations
-- IT Support
-- Security Analysis
+- AI / Machine Learning Engineering
+- Applied AI Engineering
+- AI Automation Engineering
+- Security Engineering
+- Cybersecurity / Security Operations
+- AI Security
+- Machine Learning Security
+- IT Engineering / IT Operations
+- Systems Engineering
+- Cloud / Infrastructure Engineering
+- Technical Support Engineering
+- Automation Engineering
+- Junior Software Engineering
 - Digital Forensics
-- IT Operations
-- Technical Support
 
 ## Connect
 
