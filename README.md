@@ -29,4 +29,4 @@ Entry-level **SOC analyst**, **security engineer** and **vulnerability managemen
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/suayip-ada-9144671b8)
+[LinkedIn](https://www.linkedin.com/in/veysel-ada-9144671b8)
