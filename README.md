@@ -1,80 +1,32 @@
 # Hi, I'm Veysel Ada
 
-I'm an early-career engineer interested in AI, cybersecurity, automation, and IT systems.
+Cybersecurity graduate (B.S., University at Albany, SUNY) focused on **SOC analysis and security
+engineering**. I build hands-on labs and tools around vulnerability management, security monitoring
+and incident handling, with a growing interest in AI security. Currently studying for CompTIA Security+.
 
-I build hands-on projects across machine learning, explainable AI, security operations, IT service management, and software automation. My work includes TensorFlow/Keras, PyTorch, Python automation, SHAP, ServiceNow, Linux, security monitoring, and virtualized lab environments.
+## Featured projects
 
-I'm especially interested in roles where software, AI, security, and infrastructure overlap.
+| Project | What it shows |
+|---|---|
+| **[cveprio](https://github.com/Be-zerk/cveprio)**: CVE prioritization tool | Ranks CVEs P1 to P4 using NVD, CISA KEV, EPSS and SSVC, checks whether *your* installed versions are affected (including Linux backports), and explains every decision. AI claims must quote their sources. Python, 282 tests, [v0.3.0](https://github.com/Be-zerk/cveprio/releases/tag/v0.3.0). |
+| **[AlphaSOC SIEM & Network Monitoring Lab](https://github.com/Be-zerk/alphasoc-siem-network-monitoring-lab)** | SIEM setup in an Ubuntu VM: AlphaSOC Analytics Engine, Network Flight Recorder, API key integration and troubleshooting. |
+| **[Threat Intelligence Reports](https://github.com/Be-zerk/threat-intel-reports)** | Log4Shell (CVE-2021-44228) written for two audiences: a technical brief for analysts and a cyber alert for leadership, with MITRE ATT&CK mapping. |
+| **[ServiceNow ITSM Home Lab](https://github.com/Be-zerk/Servicenow-itsm-homelab)** | Incident management with P1 to P4 SLAs, 46 incidents, a security incident category, and a Flow Designer automation that routes security incidents to the security team. |
+| **[YouTube Shorts Automation Pipeline](https://github.com/Be-zerk/youtube-shorts-pipeline)** | Unattended Python pipeline: cited research, fact-checked scripts, local text-to-speech and rendering, running free on Cloudflare Workers AI. |
+| **[Hand Gesture Classification with SHAP](https://github.com/Be-zerk/Hand-Gesture-Classification--SHAP)** | 10-class image classifier in TensorFlow/Keras with explainable AI (SHAP), built as a team project. |
 
-## Featured Projects
+## Skills
 
-### ServiceNow ITSM Home Lab
-Built and tested a ServiceNow ITSM environment with incident management, SLA policies, knowledge management, reporting, and Flow Designer automation.
+- **Security:** vulnerability management (CVSS, EPSS, CISA KEV, SSVC, SBOM), SIEM and network monitoring, threat intelligence, Nmap, OpenVAS, OWASP ZAP, Wireshark, John the Ripper
+- **Identity and IT operations:** Active Directory, Group Policy, ServiceNow ITSM, incident management
+- **AI security:** prompt injection defense, LLM output validation
+- **Engineering:** Python, REST APIs, Git and GitHub, pytest, GitHub Actions CI, Linux, Windows Server, VirtualBox
+- **Machine learning:** TensorFlow and Keras, PyTorch, SHAP
 
-[View Project](https://github.com/Be-zerk/Servicenow-itsm-homelab)
+## Looking for
 
-### Hand Gesture Classification with SHAP
-Developed a 10-class hand-gesture image classifier using TensorFlow/Keras, corrected dataset class mapping, evaluated model performance, and incorporated SHAP explainability as part of a team project.
+Entry-level **SOC analyst**, **security engineer** and **vulnerability management** roles, in New York or remote.
 
-[View Project](https://github.com/Be-zerk/Hand-Gesture-Classification--SHAP)
+## Contact
 
-### YouTube Shorts Automation Pipeline
-Built an automated Python pipeline for research, script generation, fact checking, image generation, narration, subtitles, video rendering, and unlisted YouTube uploads.
-
-[View Project](https://github.com/Be-zerk/youtube-shorts-pipeline)
-
-## Currently Building
-
-I'm continuing to expand my cybersecurity portfolio with hands-on security monitoring, SIEM, vulnerability assessment, and defensive security labs.
-
-## Technical Skills
-
-**Cybersecurity & IT**
-- Security monitoring
-- Vulnerability assessment
-- Incident management
-- ITSM / ServiceNow
-- Network security fundamentals
-- Password auditing
-- Security tooling
-
-**Programming & Data**
-- Python
-- TensorFlow / Keras
-- PyTorch
-- Machine learning
-- SHAP / Explainable AI
-- Data analysis
-
-**Tools & Platforms**
-- ServiceNow
-- Linux
-- Windows
-- VirtualBox
-- Git / GitHub
-- OWASP ZAP
-- AlphaSOC
-
-## Career Focus
-
-I'm interested in opportunities across:
-
-- AI / Machine Learning Engineering
-- Applied AI Engineering
-- AI Automation Engineering
-- Security Engineering
-- Cybersecurity / Security Operations
-- AI Security
-- Machine Learning Security
-- IT Engineering / IT Operations
-- Systems Engineering
-- Cloud / Infrastructure Engineering
-- Technical Support Engineering
-- Automation Engineering
-- Junior Software Engineering
-- Digital Forensics
-
-## Connect
-
-- GitHub: [Be-zerk](https://github.com/Be-zerk)
-- Linkedin: www.linkedin.com/in/suayip-ada-9144671b8
+[LinkedIn](https://www.linkedin.com/in/suayip-ada-9144671b8)
